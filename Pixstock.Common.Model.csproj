@@ -4,6 +4,6 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\pixstock.service.parent\hyperion.pf.entity\Hyperion.Pf.Entity.csproj" />
+    <ProjectReference Include="..\Pixstock.Service.Parent\Hyperion.Pf.Entity\Hyperion.Pf.Entity.csproj" />
   </ItemGroup>
 </Project>
